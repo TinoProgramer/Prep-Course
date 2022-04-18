@@ -1,0 +1,13 @@
+Variables: es la identificiación de una cosa
+
+Strings: Es un texto entre comillas
+
+Funciones: Es un codigo que realiza una acción
+
+Argumentos: son los parámetros de la función
+
+Return: el resultado que da la función
+
+Declaraciones IF: Es un condicional que puede dar valores verdadero o falso
+
+Valores booleanos: Son aquellos que funciona con la logica binaria, representado por verdadero o falso.
