@@ -1,0 +1,7 @@
+For: Es un bucle que realiza expresiones hasta que se produzca su condicion.
+
+&&: Una y evalua ambas expresiones y dará true si ambas son verdaderas.
+
+||: Busca si alguna o todas las expresiones son verdaderas y dará true.
+
+!: Devuelve lo opuesto de lo que se pasa.
